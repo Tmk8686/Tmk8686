@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tmk8686
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript,Python
+- 🌱 I’m currently learning JavaScript,Python,HTML5,CSS3,C++,C#
 
 <!---
 Tmk8686/Tmk8686 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
