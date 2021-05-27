@@ -1,9 +1,26 @@
-- 👋https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966 Hi, I’m @Tmk8686
+- 👋 Hello there
+My name is Ruv Alisheruly
+On the internet am I known as either RuvTea or ruv_tea_nice. My tag on Discord is Ruv#8651.
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript,Python,HTML5,CSS3,C++,C#
-- I am the Wayset Site Developer. https://github.com/wayset/wayset.github.io
-- I am love programming!
-<!---
-Tmk8686/Tmk8686 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning Java,C++,C#,C
+- 📝 I’m coding with Python,HTML5,CSS3,JS!
+- I’m the Wayset Developer!
+I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in Python,JavaScript,C++.
+Languages.
+![Без названия (2)](https://user-images.githubusercontent.com/74861097/119839371-efa20500-bf25-11eb-9e08-d78584b28c76.png)
+![Без названия (3)](https://user-images.githubusercontent.com/74861097/119839376-f03a9b80-bf25-11eb-9406-18c2ab927368.png)
+![Без названия](https://user-images.githubusercontent.com/74861097/119839377-f0d33200-bf25-11eb-8943-487eb11684e4.jpg)
+![Без названия (1)](https://user-images.githubusercontent.com/74861097/119839378-f16bc880-bf25-11eb-94ad-e25282ba3ab1.jpg)
+![Без названия (1)](https://user-images.githubusercontent.com/74861097/119839381-f16bc880-bf25-11eb-8fb7-3aada35e65e5.png)
+if (You have any questions == True){
+  std::cout << "Write message to my discord!Ruv#8651" << std::endl;
+}
+📁 Projects 
+I’m dont love publish my works in Ethernet.
+But, i have my fun maded projects at the github!
+
+🔗 Links
+  Wayset:
+  https://wayset.github.io/
+  Github:
+  https://github.com/Tmk8686
